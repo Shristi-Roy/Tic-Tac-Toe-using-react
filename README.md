@@ -36,4 +36,3 @@ git clone https://github.com/your-username/tic-tac-toe-react.git
 cd tic-tac-toe-react
 npm install
 npm start
->>>>>>> a190cf17984282d2d7cbb289e61e175c5f62bbaf
